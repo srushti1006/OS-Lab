@@ -1,0 +1,16 @@
+//complies the ls.c file and saves output in ls
+gcc ls.c -o lsmain
+//to run output file
+./lsmain trial
+
+
+//complies the ls.c file and saves output in ls
+gcc ls.c -o lsscan
+//to run output file
+./lscan
+
+//ls -al variation
+gcc ls-al.c -o ls-al
+./ls-al trial
+
+

@@ -1,0 +1,183 @@
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+1
+enter rollnumber of student 
+1
+enter name of student 
+ria
+enter marks of DBMS 
+12
+enter marks of OS 
+13
+enter marks of MC 
+14
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+2
+showing database of student
+1 ria 12 13 14
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+3
+enter rollnumber of student 
+2
+enter name of student 
+mia
+enter marks of DBMS 
+22
+enter marks of OS 
+21
+enter marks of MC 
+23
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+2
+showing database of student
+1 ria 12 13 14
+2 mia 22 21 23
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+4
+enter roll number 
+1
+1 ria 12 13 14
+deletion is complete 
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+2
+showing database of student
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+3
+enter rollnumber of student 
+1
+enter name of student 
+tina
+enter marks of DBMS 
+21
+enter marks of OS 
+22
+enter marks of MC 
+23
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+2
+showing database of student
+1 tina 21 22 23
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+5
+ enter roll number 
+1
+1 tina 21 22 23
+enter roll number 
+1
+enter name of student 
+rina
+enter marks of DBMS 
+25
+enter marks of OS 
+25
+enter marks of MC 
+25
+1
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+2
+showing database of student
+1 rina 25 25 25
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+6
+enter roll number 
+1
+printing result 
+1 rina 25 25 25
+SELECT YOUR YOUR OPTION
+1. create database 
+2. view database 
+3. insert a record 
+4. delete record 
+5. modify a record 
+6. result of particular student 
+7. exit
+enter ur choice 
+7
+
